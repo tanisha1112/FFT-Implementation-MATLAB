@@ -14,13 +14,13 @@ Table 1. Verification results: sum of error magnitudes relative to MATLAB® fft.
 | Function        | N=8         | N=256  |
 | ------------- |:-------------:| -----:|
 | myDFT      | 1.6314e-13| 5.6040e-08 |
-| myFFT_0     | 7.4733e-15     |   8.4525e-10|
+| myFFT_139     | 7.4733e-15     |   8.4525e-10|
 
 Table 2. Benchmark results: total time from MATLAB® profiler.
 
 | Function        | Total Time (s)       | 
 | ------------- |:-------------:| 
 | myDFT      | 9.839 | 
-| myFFT_0     |  0.494    |
+| myFFT_139    |  0.494    |
 | MATLAB® FFT   | 0.001  |  
 
