@@ -3,8 +3,8 @@
 
 For this assignment, I implemented three functions in MATLAB®:
 1. myDFT, a brute-force implementation of the DFT,
-2. myFFT_0, a decimation-in-time implementation of the FFT, and
-3. butterfly, a decimation-in-time butterfly called by myFFT_0.
+2. myFFT_139, a decimation-in-time implementation of the FFT, and
+3. "butterfly", a decimation-in-time butterfly called by myFFT_139.
 A code listing for these functions is provided in the appendix.
 
 Verification
